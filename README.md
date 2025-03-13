@@ -1,0 +1,2 @@
+# STM32_TRAINING
+STM32_F446RE HAL Register coding 
